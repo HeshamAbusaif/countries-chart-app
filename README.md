@@ -1,4 +1,4 @@
-# hello-world
+# OutCons - COuntry App
 
 ## Project setup
 ```
