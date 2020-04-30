@@ -26,7 +26,7 @@
     "eslint-plugin-html": "4.0.2",
     "eslint-plugin-vue": "^5.2.2",
     "nuxt": "2.3.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "vue": "^2.6.10",
     "vue-chartjs": "^3.4.2",
